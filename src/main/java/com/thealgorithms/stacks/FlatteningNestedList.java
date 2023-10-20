@@ -1,4 +1,5 @@
 package com.thealgorithms.stacks;
+
 import java.util.ArrayList;
 import java.util.List;
 
